@@ -1,1 +1,3 @@
 nginx
+ghcr.io/shadowsocks/sslocal-rust:latest
+ghcr.io/shadowsocks/ssserver-rust:latest
